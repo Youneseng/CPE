@@ -1,0 +1,116 @@
+1 - Categorize cada um dos seguintes itens como hardware ou software:
+	1. CPU: hardware
+	2. Disco rígido: hardware
+	3. Programa Word: software
+	4. Instagram: software
+	5. Teclado: hardware
+
+2 - O que é software e qual sua importância?
+
+Um software é uma série de instruções ou programas de computador que permitem execute tarefas específicas.
+O software é fundamental na nossa sociedade moderna, tanto a nível pessoal como profissional. A sua importância continua a crescer à medida que surgem novas tecnologias e as necessidades informáticas evoluem.
+
+3 - Defina com suas próprias palavras o que é algoritmo.
+
+um algoritmo é a execução de uma sequência de passos para resolver um problema ou cumprir uma tarefa específica.
+
+4 - Cite exemplos de software usados na medicina, ciência no entretenimento que você conhece.
+
+na ciência: geogebra	
+no entretenimento: netflix, tiktok
+
+5 - Quais softwares deixa sua vida mais fácil?
+ilovepdf, utorrent,adobe acrobat
+
+- Quais deixam sua vida mais complicada?
+nenhum
+
+6 - Considere uma atividade de sua rotina diária. Como a computação está direta ou indiretamente envolvida?
+
+estudos, precisamos de software para fazer matriculas, baixar conteudos de disciplina...
+
+7 - A partir de sua experiência pessoal, descreva uma atividade que não seria possível sem computadores.
+
+A cirurgia a laser LASIK por exemplo, realizada para o tratamento de miopia, hipermetropia e astigmatismo.
+
+8 - Faça uma Lista programas que você utiliza.
+
+spotify
+webtoon
+vlc
+shazam
+amazon shopping
+teams
+github
+whatsapp
+youtube
+signal
+drive
+uber
+geogebra
+integral calculator
+
+9 - Faça uma lista com dez atividades que não utilizam computadores de nenhuma maneira.
+
+Agricultura familiar
+Pesca
+Pecuária familiar
+Artesanato
+Serviços de limpeza
+Serviços de guia turístico
+Serviços de alimentação ambulante
+Manufatura manual
+Serviço de Cabeleireiro 
+cuidador de animais de estimação.
+
+10 - Você acha que a inteligência artificial vai acabar com empregos na área da computação? Justifique.
+
+acho que não, a inteligência artificial vai acabar com empregos em cujas tarefas são repetitivas, ela também criará novas oportunidades e exigências no mercado de trabalho futuro.
+
+11 - Descreva a capacidade de seu computador em termos de processamento, memória e armazenamento.
+
+processamento: Intel(R) Core(TM) i5-1035G1 CPU @ 1.00GHz   1.19 GHz
+
+memória: RAM 12,0 GB
+
+armazenamento: HD 1T, SSD 500 GB
+
+12 - Descreva um algoritmo para resolver um cubo mágico.
+
+13 - Qual a diferença entre bit e byte?
+
+Um bit é a menor unidade de dados e pode representar apenas dois valores distintos (0 ou 1), um byte é composto por um grupo de bits e tem capacidade para representar uma gama mais ampla de informações devido à sua maior quantidade de bits.
+
+14 - Como representar números reais usando sistema binário?
+
+Os números reais podem ser representados em sistemas binários usando uma técnica chamada ponto flutuante. Nesse sistema, um número real é representado por uma mantissa (ou significando), um expoente e um sinal, de forma análoga à notação científica.
+
+15 - Descreva os passos para converter o número decimal 150 para sua representação em binário.
+
+Passos:
+Dividir 150 por 2 resulta em 75, com um resto de 0.
+Dividir 75 por 2 resulta em 37, com um resto de 1.
+Dividir 37 por 2 resulta em 18, com um resto de 1.
+Dividir 18 por 2 resulta em 9, com um resto de 0.
+Dividir 9 por 2 resulta em 4, com um resto de 1.
+Dividir 4 por 2 resulta em 2, com um resto de 0.
+Dividir 2 por 2 resulta em 1, com um resto de 0.
+Dividir 1 por 2 resulta em 0, com um resto de 1.
+
+Lendo os restos das divisões de baixo para cima, obtemos: 10010110. Portanto, a representação binária do número decimal 150 é 10010110.
+
+16 - Descreva o papel do scrum master, dono do produto e do time de desenvolvimento.
+
+o Scrum Master facilita o processo e remove obstáculos, o Dono do Produto representa os interesses dos stakeholders e prioriza o backlog do produto, e o Time de Desenvolvimento entrega o produto de alta qualidade a cada Sprint.
+
+17 - Descreva os comandos para mover, copiar, e remover arquivos usando linha de comando no sistema operacional que você utiliza.
+
+no windows:
+- mover: move <caminho_origem> <caminho_destino>
+- copiar: copy <caminho_origem> <caminho_destino>
+- remover arquivos: del <caminho_arquivo>
+
+18 - Qual o padrão IEEE para redes WiFi? E para o Bluetooth?
+
+IEEE 802.11 é o padrão para redes WiFi, e o IEEE 802.15 é o padrão para Bluetooth.
+
